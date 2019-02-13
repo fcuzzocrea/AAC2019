@@ -1,0 +1,66 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Abbreviated Terms}{3}{section.0.1}
+\contentsline {section}{\numberline {2}Reference Books}{3}{section.0.2}
+\contentsline {section}{\numberline {3}Reference Notes}{3}{section.0.3}
+\contentsline {section}{\numberline {4}Reference Articles}{3}{section.0.4}
+\contentsline {section}{\numberline {5}Datasheets \& User Manuals}{4}{section.0.5}
+\contentsline {chapter}{\numberline {1}Spacecraft Description}{5}{chapter.1}
+\contentsline {section}{\numberline {1}General Description}{5}{section.1.1}
+\contentsline {section}{\numberline {2}Sensors Description}{5}{section.1.2}
+\contentsline {subsection}{Magnetometers}{5}{section*.4}
+\contentsline {subsection}{Gyroscopes}{6}{section*.6}
+\contentsline {section}{\numberline {3}Actuators Description}{7}{section.1.3}
+\contentsline {subsection}{Magnetic Torquers}{7}{section*.9}
+\contentsline {subsection}{Reaction Wheels}{7}{section*.10}
+\contentsline {section}{\numberline {4}Onboard Computer}{8}{section.1.4}
+\contentsline {chapter}{\numberline {2}Mathematical Modeling}{9}{chapter.2}
+\contentsline {section}{\numberline {1}Kinematics}{9}{section.2.1}
+\contentsline {subsection}{Direct Cosine Matrix}{9}{section*.12}
+\contentsline {subsection}{Quaternions}{10}{section*.13}
+\contentsline {subsection}{Attitude Error}{10}{section*.14}
+\contentsline {section}{\numberline {2}Dynamics}{11}{section.2.2}
+\contentsline {subsection}{Euler Equations}{11}{section*.16}
+\contentsline {subsection}{Environmental Disturbances}{11}{section*.17}
+\contentsline {subsubsection}{Gravity Gradient}{12}{section*.18}
+\contentsline {subsubsection}{Earth's Magnetic Field}{12}{section*.19}
+\contentsline {subsubsection}{Solar Radiation Pressure}{12}{section*.20}
+\contentsline {subsubsection}{Aerodynamic Drag}{13}{section*.21}
+\contentsline {section}{\numberline {3}Sensors Models}{14}{section.2.3}
+\contentsline {subsection}{Magnetometer}{14}{section*.22}
+\contentsline {subsection}{Gyroscope}{15}{section*.23}
+\contentsline {section}{\numberline {4}Actuators Models}{15}{section.2.4}
+\contentsline {subsection}{Magnetic Torquers}{15}{section*.24}
+\contentsline {subsection}{Reaction Wheels}{16}{section*.25}
+\contentsline {chapter}{\numberline {3}Attitude Determination}{17}{chapter.3}
+\contentsline {section}{\numberline {1}Method 1}{17}{section.3.1}
+\contentsline {section}{\numberline {2}Method 2}{18}{section.3.2}
+\contentsline {chapter}{\numberline {4}Control}{19}{chapter.4}
+\contentsline {section}{\numberline {1}B-Dot Control}{19}{section.4.1}
+\contentsline {section}{\numberline {2}Quaternion Feedback Control}{19}{section.4.2}
+\contentsline {subsection}{Mixer Matrix}{20}{section*.26}
+\contentsline {chapter}{\numberline {5}Mission Requirements, Parameters and Architecture }{22}{chapter.5}
+\contentsline {section}{\numberline {1}Customer Requirements}{22}{section.5.1}
+\contentsline {section}{\numberline {2}Orbital Parameters}{22}{section.5.2}
+\contentsline {section}{\numberline {3}Structure Parameters}{23}{section.5.3}
+\contentsline {section}{\numberline {4}Sensors Parameters}{24}{section.5.4}
+\contentsline {subsection}{Magnetometer}{25}{section*.31}
+\contentsline {subsection}{Gyroscope}{26}{section*.34}
+\contentsline {section}{\numberline {5}Actuators Parameters}{26}{section.5.5}
+\contentsline {subsection}{Magnetic Torquer}{27}{section*.37}
+\contentsline {subsection}{Reaction Wheel}{27}{section*.40}
+\contentsline {section}{\numberline {6}External Disturbances Parameters}{28}{section.5.6}
+\contentsline {section}{\numberline {7}Spacecraft Parameters}{28}{section.5.7}
+\contentsline {section}{\numberline {8}Mass,Power and volume budget}{29}{section.5.8}
+\contentsline {subsection}{Mass budget}{29}{section*.45}
+\contentsline {subsection}{Volume budget}{29}{section*.47}
+\contentsline {subsection}{Power budget}{29}{section*.49}
+\contentsline {section}{\numberline {9}ADCS Architecture}{30}{section.5.9}
+\contentsline {subsection}{Sensors and Actuators Placing}{30}{section*.52}
+\contentsline {chapter}{\numberline {6}Simulink Model}{31}{chapter.6}
+\contentsline {section}{\numberline {1}Dynamics}{31}{section.6.1}
+\contentsline {section}{\numberline {2}True Kinematics}{34}{section.6.2}
+\contentsline {subsection}{Spacecraft}{35}{section*.63}
+\contentsline {chapter}{\numberline {7}Results}{37}{chapter.7}
+\contentsline {section}{\numberline {1}Disturbance Torques}{37}{section.7.1}
+\contentsline {section}{\numberline {2}Control}{39}{section.7.2}
+\contentsline {chapter}{\numberline {8}Conclusion}{42}{chapter.8}
